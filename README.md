@@ -64,7 +64,7 @@ Install all from **Arduino IDE → Tools → Manage Libraries**:
 
 1. **Clone this repo**
    ```bash
-   git clone https://github.com/yourusername/esp8266-heart-rate-monitor.git
+   git clone https://github.com/KspTechforge06/heartbeat-pusle-rate-system-.git
    ```
 
 2. **Open in Arduino IDE**
